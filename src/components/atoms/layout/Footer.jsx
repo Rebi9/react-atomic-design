@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Footer = () => {
-  return <SFooter>&copy; 2021 999 Inc.</SFooter>;
+  return <SFooter>&copy; 2021 999test Inc.</SFooter>;
 };
 
 const SFooter = styled.footer`
